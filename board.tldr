@@ -50,15 +50,17 @@
 		{
 			"id": "pointer:pointer",
 			"typeName": "pointer",
-			"x": -700.2285271451728,
-			"y": -4718.841708323784,
-			"lastActivityTimestamp": 1738146193459,
+			"x": -167.27347159432077,
+			"y": -4280.574107677186,
+			"lastActivityTimestamp": 1738234671648,
 			"meta": {}
 		},
 		{
 			"followingUserId": null,
 			"opacityForNextShape": 1,
-			"stylesForNextShape": {},
+			"stylesForNextShape": {
+				"tldraw:size": "s"
+			},
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
